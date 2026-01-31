@@ -14,12 +14,14 @@
 void out_init(void)
 {
     // implement here
+    // i.e. starting state, etc.
 }
 
 // might not use this funciton
 void out_deinit(void)
 {
     // implement here
+    // might be unused depending on init
 }
 
 // add documentation here

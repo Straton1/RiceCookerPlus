@@ -2,7 +2,7 @@
 #define HW_H_
 
 #if defined(HW_TARGET_LTAG)
-#include "hw_in_d.h"
+#include "hw_in.h"
 #else
 #include "hw_out.h"
 #endif
